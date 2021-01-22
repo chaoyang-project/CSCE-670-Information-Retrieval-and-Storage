@@ -1,4 +1,6 @@
 # Information-Retrieval-and-Storage
+Assignments and Projects for CSCE 670 course at Texas A&M Univeristy pursuing my master's degree.
+
 HW1: Parsing + Boolean Retrieval + Ranking Documents
 
 HW2: PageRank + Learning to Rank
