@@ -11,6 +11,6 @@ Parsing + Boolean Retrieval + Ranking Documents
 
 Matrix Factorization for Rating Prediction + Bayesian Personalized Ranking for Top-K Item Recommendation
 
-#### HW4: Word Embeddings for Information Retrieval and Query Expansion
+#### HW4: Word Embeddings
 
 Word2Vec + Vector Space Model via Word Embeddings + Query Expansion via Word Embeddings
