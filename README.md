@@ -5,7 +5,9 @@ Assignments and Projects for CSCE 670 course at Texas A&M Univeristy pursuing my
 
 Parsing + Boolean Retrieval + Ranking Documents
 
-#### HW2: PageRank + Learning to Rank
+#### HW2: Ranking
+
+PageRank + Learning to Rank
 
 #### HW3: Recommendation Systems
 
